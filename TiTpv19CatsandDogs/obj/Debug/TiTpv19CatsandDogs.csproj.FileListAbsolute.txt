@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\TiTpv19CatsAndDogs\TiTpv19CatsandDogs\bin\Debug\TiTpv19CatsandDogs.exe.config
+C:\Users\opilane\source\repos\TiTpv19CatsAndDogs\TiTpv19CatsandDogs\bin\Debug\TiTpv19CatsandDogs.exe
+C:\Users\opilane\source\repos\TiTpv19CatsAndDogs\TiTpv19CatsandDogs\bin\Debug\TiTpv19CatsandDogs.pdb
+C:\Users\opilane\source\repos\TiTpv19CatsAndDogs\TiTpv19CatsandDogs\obj\Debug\TiTpv19CatsandDogs.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TiTpv19CatsAndDogs\TiTpv19CatsandDogs\obj\Debug\TiTpv19CatsandDogs.Properties.Resources.resources
+C:\Users\opilane\source\repos\TiTpv19CatsAndDogs\TiTpv19CatsandDogs\obj\Debug\TiTpv19CatsandDogs.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\TiTpv19CatsAndDogs\TiTpv19CatsandDogs\obj\Debug\TiTpv19CatsandDogs.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TiTpv19CatsAndDogs\TiTpv19CatsandDogs\obj\Debug\TiTpv19CatsandDogs.exe
+C:\Users\opilane\source\repos\TiTpv19CatsAndDogs\TiTpv19CatsandDogs\obj\Debug\TiTpv19CatsandDogs.pdb
+C:\Users\opilane\source\repos\TiTpv19CatsAndDogs\TiTpv19CatsandDogs\bin\Debug\Pets.mdf
+C:\Users\opilane\source\repos\TiTpv19CatsAndDogs\TiTpv19CatsandDogs\bin\Debug\Pets_log.ldf
+C:\Users\opilane\source\repos\TiTpv19CatsAndDogs\TiTpv19CatsandDogs\obj\Debug\TiTpv19CatsandDogs.Form1.resources
